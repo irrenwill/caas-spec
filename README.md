@@ -5,6 +5,7 @@
 **Status**: Living specification, v0.1 draft (May 2026)
 **Author**: [@irrenwill](https://github.com/irrenwill)
 **License**: [CC BY 4.0](./LICENSE)
+**Languages**: **English** | [繁體中文](./README-zh-TW.md)
 
 ---
 
