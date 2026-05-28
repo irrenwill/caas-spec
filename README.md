@@ -163,7 +163,7 @@ CaaS is the wrong architecture if:
 
 ## Reference implementations
 
-- **Tethea** — AI video production pipeline (in development, 2026)
+- **[caas-creator](https://github.com/irrenwill/caas-creator)** — Scaffolding tool that generates CaaS projects from a single schema. CLI + Core + GUI + MCP server, built in 7 days.
 - _More to come. PRs welcome._
 
 ---
